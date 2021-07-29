@@ -1,6 +1,6 @@
 # code-refactoring
 ### This is an assignment to refactor existing code.
-### I took the things I learned to rewrite code in a more understandable
+### I took the things I learned to rewrite code in a more understandable way.
 ### as well as making links work and condensing and removing things not needed.
 ### Screenshots of the website.
 ## Header
