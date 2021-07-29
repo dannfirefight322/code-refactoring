@@ -6,6 +6,6 @@
 ## Header
 ![Header area of website](./assets/images/readme/header.png)
 ## Main content
-![main content ofthe website](./assets/imageas/readme/main_content.png)
+![main content ofthe website](./assets/images/readme/main_content.png)
 ## Footer
 ![Footer of the website](./assets/images/readme/footer.png) 
