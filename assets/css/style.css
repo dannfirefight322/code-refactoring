@@ -10,6 +10,7 @@ body {
 /*I left the header class in but everywhere header
  div class was I switched to nav and I deleted all the ul and li
 attributes since they were not needed*/
+/*this is styling for the header and nav bar and links*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,6 +47,7 @@ p {
     font-size: 16px;
 }
 /*moved the image source to the html file*/
+/* this is styling for the main image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -53,6 +55,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*this is styling for the main images to float to the left or right of the box*/
 
 .float-left {
     float: left;
@@ -63,13 +66,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* this is styling for the content of the boxes in the  main*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*this is styling for the benefits section that floats on the right side of the page*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -81,6 +84,7 @@ p {
     background-color: #2589bd;
 }
 /*since these classes had the same styling I added them together*/
+/* this is styling for the content inside of the benefits section*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -114,7 +118,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* this is the footer styling of the webpage*/
 footer,footer h2 {
     padding: 30px;
     clear: both;
